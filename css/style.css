@@ -13,7 +13,7 @@ header{
     rgba(253, 203, 110,.6),
     rgba(0, 206, 201,0.6),
     rgba(108, 92, 231,0.6)
-    ), url(/img/fondo.jpg);
+    ), url(../img/fondo.jpg);
     background-attachment: fixed;
     background-position-y: top;
     background-position-x: center;
